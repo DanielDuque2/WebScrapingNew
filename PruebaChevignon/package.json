@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-swipeable-views-utils": "^0.14.0",
+    "video-react": "^0.16.0"
+  }
+}
